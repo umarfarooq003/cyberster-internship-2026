@@ -1,7 +1,7 @@
 # Week 02: Network Enumeration & Service Vulnerability Discovery
 
-**Target:** Metasploitable2 (`192.168.56.102` — replace with your actual IP)
-**Attacker:** Kali Linux (`192.168.56.101` — replace with your actual IP)
+**Target:** Metasploitable2 (`10.0.2.3` — replace with your actual IP)
+**Attacker:** Kali Linux (`10.0.2.15` — replace with your actual IP)
 **Environment:** VirtualBox/VMware Host-Only or NAT Network (isolated, no internet-facing bridge)
 
 > ⚠️ **Scope Warning:** Only run these commands against Metasploitable2 or another machine you own/are authorized to test. Never point these at production systems or networks you don't control.
@@ -19,13 +19,13 @@
    ```
 5. From Kali, confirm connectivity and discover the IP if needed:
    ```bash
-   sudo netdiscover -r 192.168.56.0/24
+   sudo netdiscover -r 10.0.2.0/24
    # or
-   sudo nmap -sn 192.168.56.0/24
+   sudo nmap -sn 10.0.2.0/24
    ```
 6. Export a variable for convenience in every terminal session:
    ```bash
-   export TARGET=192.168.56.102
+   export TARGET=10.0.2.3
    ```
 
 ---
@@ -203,7 +203,7 @@ Port 21 (**vsftpd 2.3.4**) or port 1524 (**ingreslock backdoor**, `nc $TARGET 15
 ## Quick Reference: All Commands in Order
 
 ```bash
-export TARGET=192.168.56.102
+export TARGET=10.0.2.3
 
 # Task 01
 sudo nmap -sT -p- -oN task01_tcp_connect.txt $TARGET
