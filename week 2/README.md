@@ -158,7 +158,7 @@ Expected hits on Metasploitable2:
 
 ## Task 04 — Stealth & Firewall Evasion
 
-> Note: Metasploitable2 has no IDS/firewall by default. Document these as **syntax/mechanics demonstrations** rather than measured detection-evasion results, unless you've added Snort/Suricata to the segment.
+> Note: Metasploitable2 has no IDS/firewall by default. Document these as **syntax/mechanics demonstrations** rather than measured detection-evasion results, unless you've added Snort/Suricata to the lab.
 
 ### 4.1 Packet Fragmentation
 ```bash
@@ -196,7 +196,7 @@ Run each Task 04 command in another terminal and observe which ones trigger Snor
 - [ ] **Actionable Insights** — identify the single most likely Initial Access vector
 
 ### Suggested Actionable Insight (Metasploitable2)
-Port 21 (**vsftpd 2.3.4**) or port 1524 (**ingreslock backdoor**, `nc $TARGET 1524`) are the strongest Initial Access candidates — both offer pre-built, unauthenticated root shell access with zero exploit development required. vsftpd 2.3.4 has a public Metasploit module: `exploit/unix/ftp/vsftpd_234_backdoor`.
+Port 21 (**vsftpd 2.3.4**) or port 1524 (**ingreslock backdoor**, `nc $TARGET 1524`) are the strongest Initial Access candidates — both offer pre-built, unauthenticated root shell access with zero brute force required.
 
 ---
 
