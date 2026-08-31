@@ -127,3 +127,248 @@ This section summarizes the work completed during **Week 3** of the Cyberster In
 - Apply this week’s learnings to improve speed and quality in Week 4 tasks.
 - Continue documenting challenges and solutions to build a stronger progress record.
 - Prepare clear goals and deliverables for Week 4.
+
+## Week 5 – Internship Progress
+
+### Overview
+This section summarizes the work completed during **Week 5** of the Cyberster Internship 2026.
+
+### Objectives
+- Complete assigned Week 5 tasks.
+- Strengthen practical technical skills.
+- Track progress, learnings, and blockers.
+
+### Tasks Completed
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+### Learnings
+- Improved consistency in documenting weekly technical work.
+- Practiced breaking larger tasks into smaller actionable items.
+- Better understanding of balancing execution and reporting.
+
+### Challenges Faced
+- Managing multiple parallel tasks within limited time.
+- Keeping technical notes concise and clear.
+- Prioritizing tasks based on impact and deadlines.
+
+### Resources
+- GitHub docs and Markdown references.
+- Mentor feedback and internship task notes.
+- Relevant technical tutorials/documentation.
+
+### Next Steps
+- Complete pending checklist items for Week 5.
+- Apply improvements in planning and prioritization for Week 6.
+- Continue documenting solutions for recurring challenges.
+
+## Week 6 – Internship Progress
+
+### Overview
+This section summarizes the work completed during **Week 6** of the Cyberster Internship 2026.
+
+### Objectives
+- Complete assigned Week 6 tasks.
+- Improve problem-solving and debugging workflow.
+- Maintain clear weekly documentation.
+
+### Tasks Completed
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+### Learnings
+- Improved debugging approach through structured investigation.
+- Better clarity in writing weekly outcomes and reflections.
+- Learned to identify risks early and communicate them effectively.
+
+### Challenges Faced
+- Resolving issues with incomplete or unclear context.
+- Estimating effort accurately for technical tasks.
+- Maintaining momentum while handling blockers.
+
+### Resources
+- Repository documentation and issue discussions.
+- Mentor guidance and code review inputs.
+- Technical references and official docs.
+
+### Next Steps
+- Close remaining Week 6 tasks and verify deliverables.
+- Improve estimation and planning for Week 7.
+- Continue documenting fixes and key decisions.
+
+## Week 7 – Internship Progress
+
+### Overview
+This section summarizes the work completed during **Week 7** of the Cyberster Internship 2026.
+
+### Objectives
+- Complete assigned Week 7 tasks.
+- Improve code quality and review preparedness.
+- Keep progress and learnings well-documented.
+
+### Tasks Completed
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+### Learnings
+- Better understanding of writing maintainable and readable changes.
+- Improved confidence in preparing work for feedback/review.
+- Learned to connect weekly outcomes with longer-term goals.
+
+### Challenges Faced
+- Handling task dependencies across multiple modules.
+- Balancing speed with quality.
+- Capturing technical details without overcomplicating notes.
+
+### Resources
+- Existing project structure and past week notes.
+- Code review comments and mentor feedback.
+- External references aligned with assigned tasks.
+
+### Next Steps
+- Complete pending Week 7 checklist items.
+- Incorporate feedback-driven improvements in Week 8.
+- Continue refining documentation quality.
+
+## Week 8 – Internship Progress
+
+### Overview
+This section summarizes the work completed during **Week 8** of the Cyberster Internship 2026.
+
+### Objectives
+- Complete assigned Week 8 tasks.
+- Improve collaboration and reporting clarity.
+- Document outcomes, challenges, and improvements.
+
+### Tasks Completed
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+### Learnings
+- Improved task communication through clearer status updates.
+- Better organization of technical notes and progress logs.
+- Gained experience in handling feedback iterations.
+
+### Challenges Faced
+- Context switching between multiple ongoing tasks.
+- Tracking dependencies and deadlines simultaneously.
+- Maintaining detailed yet concise weekly summaries.
+
+### Resources
+- Repository guidelines and prior documentation.
+- Mentor discussions and teammate inputs.
+- Official docs and reference materials.
+
+### Next Steps
+- Finish pending tasks and update completion status.
+- Use lessons learned to optimize Week 9 workflow.
+- Continue maintaining structured weekly records.
+
+## Week 9 – Internship Progress
+
+### Overview
+This section summarizes the work completed during **Week 9** of the Cyberster Internship 2026.
+
+### Objectives
+- Complete assigned Week 9 tasks.
+- Improve execution reliability and quality checks.
+- Maintain complete weekly documentation.
+
+### Tasks Completed
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+### Learnings
+- Improved quality-check habits before marking tasks complete.
+- Better understanding of documenting trade-offs and decisions.
+- Strengthened ability to reflect on week-over-week improvement.
+
+### Challenges Faced
+- Handling unexpected blockers during implementation.
+- Keeping updates synchronized with actual task progress.
+- Allocating time for both execution and retrospection.
+
+### Resources
+- GitHub repository docs and historical notes.
+- Mentor suggestions and practical examples.
+- Relevant technical learning resources.
+
+### Next Steps
+- Resolve pending Week 9 items and finalize notes.
+- Carry forward quality-check practices into Week 10.
+- Continue refining problem-solving documentation.
+
+## Week 10 – Internship Progress
+
+### Overview
+This section summarizes the work completed during **Week 10** of the Cyberster Internship 2026.
+
+### Objectives
+- Complete assigned Week 10 tasks.
+- Improve productivity through better task planning.
+- Keep structured records of outcomes and blockers.
+
+### Tasks Completed
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+### Learnings
+- Improved planning and sequencing of technical tasks.
+- Better documentation of outcomes and pending follow-ups.
+- Learned to identify reusable solutions from previous weeks.
+
+### Challenges Faced
+- Coordinating tasks with evolving requirements.
+- Prioritizing high-impact items under time constraints.
+- Ensuring consistency across documentation updates.
+
+### Resources
+- Past week readmes and repository references.
+- Mentor guidance and feedback loops.
+- Technical docs and troubleshooting notes.
+
+### Next Steps
+- Complete remaining Week 10 checklist points.
+- Apply planning improvements in Week 11.
+- Continue documenting reusable patterns and lessons.
+
+## Week 11 – Internship Progress
+
+### Overview
+This section summarizes the work completed during **Week 11** of the Cyberster Internship 2026.
+
+### Objectives
+- Complete assigned Week 11 tasks.
+- Consolidate learnings from previous weeks.
+- Maintain clear and complete documentation.
+
+### Tasks Completed
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+### Learnings
+- Better ability to connect weekly tasks with broader goals.
+- Improved consistency in recording technical progress and insights.
+- Stronger approach to documenting outcomes and next actions.
+
+### Challenges Faced
+- Managing final-week priorities and pending work.
+- Maintaining clarity while summarizing technical details.
+- Tracking completion status accurately across tasks.
+
+### Resources
+- Weekly internship notes and repository history.
+- Mentor guidance and review feedback.
+- Supporting technical references.
+
+### Next Steps
+- Finalize pending Week 11 tasks and checklist items.
+- Review all weekly documentation for completeness.
+- Prepare consolidated internship summary where required.
